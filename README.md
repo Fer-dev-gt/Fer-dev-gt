@@ -10,11 +10,11 @@
 
 <p align="left">
 <h3 align="left">General Tools</h4>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</a>
 <a href="https://www.microsoft.com/es/microsoft-365/excel" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="40" height="40" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </a>
 <a href="https://www.adobe.com/gt/products/photoshop.html" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40" />
