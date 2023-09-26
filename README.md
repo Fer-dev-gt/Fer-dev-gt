@@ -22,17 +22,19 @@
 <a href="https://www.adobe.com/es/products/premiere.html" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" alt="premiere" width="40" height="40" />
 </a>
-<!--
-  <a href="https://excel.com/" target="_blank" rel="noreferrer">
-  <img src="https://icons8.com/icon/UECmBSgBOvPT/microsoft-excel-2019" alt="excel" width="40" height="40" />
-  </a>
--->
+
 <h3 align="left">Frontend Tools and Frameworks</h4>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40" />
 </a>
 
 <h3 align="left">High-level & Low-level Languages</h4>
