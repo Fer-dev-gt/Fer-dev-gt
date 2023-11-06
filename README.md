@@ -3,7 +3,7 @@
 - 👀 I’m interested on finance and macro economic topics, specially when it comes down to analyzing business models!
 - 🖥️ I’m currently learning JavaScript, Python, Java, SQL & NoSQL, React and lot more along the way
 - 🧑🏽‍💻 I’m looking to collaborate with any team that wants a dinamic and efficient developer with a new perspective
-- 📩 You can reach me at [LinkedIn](https://www.linkedin.com/in/fernando-orozco-velasquez/) or Twitter [@InvestWithFer](https://twitter.com/InvestWithFer) 
+- 📩 You can reach me at [LinkedIn](https://www.linkedin.com/in/fernando-orozco-velasquez/)
 
 
 <h2 align="left">Languages and Tools:</h2>
