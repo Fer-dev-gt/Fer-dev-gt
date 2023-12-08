@@ -14,7 +14,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fer-dev-gt&" alt="historial-de-commits" /></p>
 
 <br/>
+
 ![](https://github-profile-trophy.vercel.app/?username=fer-dev-gt&no-bg=false&margin-w=4)
+
 <br/>
 
 
