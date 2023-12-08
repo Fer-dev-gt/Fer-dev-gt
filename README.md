@@ -6,6 +6,18 @@
 - 📩 You can reach me at [LinkedIn](https://www.linkedin.com/in/fernando-orozco-velasquez/)
 
 
+<h2 align="left">My Profile in Numbers</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrescaro16&label=Profile%20views&color=0e75b6&style=flat" alt="andrescaro16" /> </p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fer-dev-gt&show_icons=true&locale=en&layout=compact&hide=html,scss,ejs,stylus,blade,jupyter%20notebook" alt="Lenguajes-mas-usados" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fer-dev-gt&" alt="historial-de-commits" /></p>
+
+<br/>
+![](https://github-profile-trophy.vercel.app/?username=fer-dev-gt&no-bg=false&margin-w=4)
+<br/>
+
+
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left">
